@@ -1,0 +1,115 @@
+{
+  "project_info": {
+    "project_number": "1098516556006",
+    "firebase_url": "https://capstone2-1cd19-default-rtdb.firebaseio.com",
+    "project_id": "capstone2-1cd19",
+    "storage_bucket": "capstone2-1cd19.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098516556006:android:628845d9e56c0328d47327",
+        "android_client_info": {
+          "package_name": "com.kang.imsi"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098516556006-lbr4gsvou3qarl4gep2gaimhu0ivu1oe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEoFgIluz3YHHk3pCkyoToDjoibaVvyQ0"
+        },
+        {
+          "current_key": "AIzaSyDlg9k7M0vG62L7kmdgYu23R7GjPw71WVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098516556006-lbr4gsvou3qarl4gep2gaimhu0ivu1oe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098516556006:android:d09f55f8cfc37e3ad47327",
+        "android_client_info": {
+          "package_name": "com.kang.login1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098516556006-lfuasb42qhsoaecerottiu0hdr30189h.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.kang.login1",
+            "certificate_hash": "a6d8dfc5276663a1419bdd327fb4bd3fd05e076d"
+          }
+        },
+        {
+          "client_id": "1098516556006-lbr4gsvou3qarl4gep2gaimhu0ivu1oe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEoFgIluz3YHHk3pCkyoToDjoibaVvyQ0"
+        },
+        {
+          "current_key": "AIzaSyDlg9k7M0vG62L7kmdgYu23R7GjPw71WVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098516556006-lbr4gsvou3qarl4gep2gaimhu0ivu1oe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1098516556006:android:c8caeff89d6652b1d47327",
+        "android_client_info": {
+          "package_name": "com.kang.weatherdiffuser"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1098516556006-lbr4gsvou3qarl4gep2gaimhu0ivu1oe.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEoFgIluz3YHHk3pCkyoToDjoibaVvyQ0"
+        },
+        {
+          "current_key": "AIzaSyDlg9k7M0vG62L7kmdgYu23R7GjPw71WVI"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "1098516556006-lbr4gsvou3qarl4gep2gaimhu0ivu1oe.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
